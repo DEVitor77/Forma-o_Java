@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="02exercicios1estruturasequencial/1exercicio01/src"/>
+	<classpathentry kind="src" path="02exercicios1estruturasequencial/2exercicio02/src"/>
+	<classpathentry kind="src" path="02exercicios1estruturasequencial/3exercicio03/src"/>
+	<classpathentry kind="src" path="02exercicios1estruturasequencial/4exercicio04/src"/>
+	<classpathentry kind="src" path="02exercicios1estruturasequencial/5exercicio05/src"/>
+	<classpathentry kind="src" path="02exercicios1estruturasequencial/6exercicio06/src"/>
+	<classpathentry kind="src" path="02exercicios1estruturasequencial/ex01NivelamentoJava/src"/>
+	<classpathentry kind="src" path="CursoJava/curso_programacao/src"/>
+	<classpathentry kind="src" path="JavaTesteVsCode/src"/>
+	<classpathentry kind="output" path="02exercicios1estruturasequencial/1exercicio01/bin"/>
+</classpath>

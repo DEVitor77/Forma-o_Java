@@ -3,5 +3,6 @@
         "EXERCICIO03",
         "EXERCICIO02/src",
         ""
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
