@@ -1,8 +1,8 @@
-import java.lang.reflect.AccessFlag.Location;
 import java.util.Locale;
 import java.util.Scanner;
 
 public class App {
+    @SuppressWarnings("unused")
     public static void main(String[] args) throws Exception {
 
         Locale.setDefault(Locale.US);
@@ -18,9 +18,7 @@ public class App {
         nunpeca2 = sc.nextInt();
         vlrunit2 = sc.nextFloat();
 
-        System.out.printf("VALOR A PAGAR: R$ %.2f%n" , (nunpeca1 * vlrunit1 + nunpeca2 * vlrunit2));
-        
-
+        System.out.printf("VALOR A PAGAR: R$ %.2f%n", (nunpeca1 * vlrunit1 + nunpeca2 * vlrunit2));
 
         sc.close();
     }
